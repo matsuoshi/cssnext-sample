@@ -1,0 +1,17 @@
+{
+  "name": "cssnext-sample",
+  "description": "cssnext sample for CSS Talk vol.2 2017-01-28",
+  "version": "1.0.0",
+  "author": "matsuoshi@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run watch",
+    "build": "postcss -c .postcssrc.json",
+    "watch": "postcss -wc .postcssrc.json"
+  },
+  "devDependencies": {
+    "postcss-cli": "^2.6.0",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-import": "^9.1.0"
+  }
+}

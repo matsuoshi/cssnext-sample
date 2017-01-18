@@ -1,0 +1,7 @@
+.sample {
+  color: var(--custom-color);
+
+  & .sub {
+    image-rendering: pixelated;
+  }
+}
