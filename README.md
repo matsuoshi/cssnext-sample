@@ -13,4 +13,5 @@ https://taminc.doorkeeper.jp/events/54947
 
 ## slide
 
+カスタム・プロパティと cssnext  
 https://speakerdeck.com/matsuoshi/kasutamupuropateito-cssnext-number-csstalk
